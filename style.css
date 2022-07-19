@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1578575437130-527eed3abbec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+.top-border{
+    border: solid;
+    border-color: hwb(0 11% 89%);
+    border-radius: 7px;
+    background-color: hwb(0 11% 89%);
+    color: whitesmoke;
+}
+.cards{
+    border: solid;
+    border-color: whitesmoke;
+    border-radius: 7px;
+    background-color: hwb(0 11% 89%);
+    font-size: 25px;
+}
+.green-text{
+    color: rgb(153, 255, 0);
+    font-size: 26px;
+}
+
